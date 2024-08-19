@@ -15,7 +15,7 @@ var simplemaps_namap_mapdata={
   
     
 		//State defaults
-		state_description: "<img style=\"float:left; margin-right: 20px;\" src=\"/images/cake.jpeg\" width=\"64\" height=\"64\" /><ul style=\"width: 175px\"; float: left;><li>Add images</li><li>Use <code>&lt;html&gt;</code></li><li style=\"color: #d13c12\">Change color</li><li style=\"font-family: Monospace\">Change Font</li></ul>",
+		state_description: "<img style=\"float:left; margin-right: 20px;\" src=\"nomap/images/cake.jpeg\" width=\"64\" height=\"64\" /><ul style=\"width: 175px\"; float: left;><li>Add images</li><li>Use <code>&lt;html&gt;</code></li><li style=\"color: #d13c12\">Change color</li><li style=\"font-family: Monospace\">Change Font</li></ul>",
     state_color: "#88A4BC",
     state_hover_color: "#3B729F",
     state_url: "https://simplemaps.com",
